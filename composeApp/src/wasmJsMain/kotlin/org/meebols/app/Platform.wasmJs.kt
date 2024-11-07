@@ -1,7 +1,7 @@
 package org.meebols.app
 
-class WasmPlatform: Platform {
-    override val name: String = "Web with Kotlin/Wasm"
-}
-
-actual fun getPlatform(): Platform = WasmPlatform()
+//class WasmPlatform: Platform {
+//    override val name: String = "Web with Kotlin/Wasm"
+//}
+//
+//actual fun getPlatform(): Platform = WasmPlatform()
